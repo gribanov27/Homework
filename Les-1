@@ -1,0 +1,7 @@
+let username = `my name`;
+let bonusBalance = 1000;
+console.log(`Пользователь ${username}`);
+console.log(`Баланс ${bonusBalance}`);
+let pokupka = 50;
+let sgoranie = 3;
+console.log(`Баланс после 7 дней ${bonusBalance+4*pokupka-7*sgoranie}`);
